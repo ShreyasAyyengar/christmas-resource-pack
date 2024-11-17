@@ -1,2 +1,1 @@
-# flyte-christmas-rp
-
+# flyte-christmas-resource-pack
