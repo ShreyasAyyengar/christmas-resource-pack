@@ -16,6 +16,10 @@
     {
       "predicate": { "custom_model_data": 3 },
       "model": "custom/hats/hat_green"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "custom/hats/hat_gold"
     }
   ]
 }
